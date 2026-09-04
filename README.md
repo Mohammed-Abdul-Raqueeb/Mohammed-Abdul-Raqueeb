@@ -27,7 +27,7 @@ Always learning, building, and improving — one project at a time.
 
 | Languages | Frontend | Backend | Databases | Cloud & DevOps | Tools |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,python,js,ts" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /> | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" /><br>REST APIs · Spring Security | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" /> | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" /><br>CI/CD | <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven" /> |
+| <img src="https://skillicons.dev/icons?i=java,python,js,ts,go,rust,c,cpp,php" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /> | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" /><br>REST APIs · Spring Security | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" /> | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" /><br>CI/CD | <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven" /> |
 
 <br>
 
