@@ -1,25 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Raqueeb</h1>
-<h3 align="center">Full-Stack Software Developer • Building Real-World Applications</h3>
-
-<div align="center">
-
-Curious about technology, always learning new concepts, and building things that solve real problems.
-
-</div>
-
+<h3 align="center">Full-Stack Software Developer | React, Spring Boot, TypeScript, Python, Go & Rust</h3>
 <br>
 
 ## 👋 Introduction
 
-I'm a passionate software developer focused on full-stack development. I'm currently learning and building real-world applications, sharpening my skills across the frontend, backend, and database layers with every project.
+I'm Mohammed Abdul Raqueeb, a full-stack software developer focused on building practical software across the frontend, backend, and systems layers.
 
-**My current focus:**
-- 🎨 Frontend development with React
-- ⚙️ Backend development with Spring Boot
-- 🗄️ Database management with SQLite
-- 🧩 Software engineering practices
+I build production-focused applications and developer tools using TypeScript, React, Spring Boot, Python, Go, and Rust, with experience working across databases, APIs, containerization, and software infrastructure.
 
-Always learning, building, and improving — one project at a time.
+My current focus:
+
+🎨 Full-stack web development with React, TypeScript, and Next.js
+⚙️ Backend engineering with Spring Boot, Python, and Go
+🦀 Systems and infrastructure development with Rust
+🗄️ Databases, APIs, and scalable backend architectures
+🧰 Developer tooling and software infrastructure
+🧩 Software engineering, system design, and distributed systems
+I enjoy turning ideas into working software and exploring how applications, backend systems, and infrastructure work under the hood.
 
 <br>
 
